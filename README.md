@@ -1,10 +1,8 @@
-### Hey, i´m Laisa! 🖐🏼
-
-🎯 Data analyst with experience in data lifecycle management. Possessing strong analytical and technical skills rooted in a bachelor's degree as a computer scientist. 
+### Hey, i´m Laisa! 🖐🏼 
 
 - 🎓 Bachelor degree in Computer Science
 - 💼 Working as a Data Analyst at Deloitte
-- 🏁 Currently learning data Science
+- 🎯 Currently learning Data Science
 
 ## Skills
 <div style="display: inline_block"><br>
