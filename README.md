@@ -1,3 +1,4 @@
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQHj0Vi3Az_9oQ/profile-displaybackgroundimage-shrink_350_1400/0/1698442535733?e=1703721600&v=beta&t=WsESmfcG6eVPedYwGFm7MoOhNEPGvbdPnDv0glWjCDQ)
 ### Hey, i´m Laisa! 🖐🏼 
 
 - 🎓 Bachelor degree in Computer Science
