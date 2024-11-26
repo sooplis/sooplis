@@ -2,7 +2,7 @@
 ### Hey, i´m Laisa! 🖐🏼 
 
 - 🎓 Bachelor degree in Computer Science
-- 💼 Working as a Data Analyst at Deloitte
+- 💼 Working as a Data Analyst at NTT Data
 - 🎯 Currently learning Data Science
 
 ## Skills
